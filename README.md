@@ -1,2 +1,2 @@
-# vault
+# Vault
 Personal Vault
