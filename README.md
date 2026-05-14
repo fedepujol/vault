@@ -1,2 +1,3 @@
 # Vault
-Personal Vault
+
+Personal Vault (Knowledge Base)
